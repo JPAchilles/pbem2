@@ -1,0 +1,12 @@
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .centertext {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10vw;
+  }
