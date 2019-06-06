@@ -1,3 +1,9 @@
+.navbar {
+  background: #121212 url("gradient.png") right top;
+}
+.body {
+  background-image: url("image/stars.gif");
+}
 .centerimg {
     display: block;
     margin-left: auto;
