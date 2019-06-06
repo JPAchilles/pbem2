@@ -1,6 +1,13 @@
 .navbar {
   background: #121212 url("gradient.png") right top;
 }
+.navbarlinks {
+  color:white;
+  text-align: center;
+  font-size:2vw;
+  text-decoration: none;
+
+}
 .body {
   background-image: url("image/stars.gif");
 }
