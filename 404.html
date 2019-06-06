@@ -1,29 +1,38 @@
-<!DOCTYPE html>
+<!doctype html>
 
-<html lang="en">
+<html lang="en-US">
 <head>
-<title>404</title>
-<head>
-		<title>Soon™</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta charset="utf-8" http-equiv="Refresh" content="3.9; url=index.html"> <!-- refresh time slightly longer than video to account for page load time -->
-		<link rel="stylesheet" href="page.css">
+	<title>404</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8" http-equiv="Refresh" content="3.9; url=index.html"> <!-- refresh time slightly longer than video to account for page load time -->
+	<link rel="stylesheet" href="page.css">
 </head>
 
-<!--Navbar-->
+<!-- Top Navbar, Reuseable code -->
+<nav class="navbar">
+    <a href="index.html">
+    <img src="image/ImPwr.png" style="max-width:100%;height:auto;" class="centerimg" title="Imperial Power Logo, subject to change" alt="Imperial Power Logo, subject to change"></a>
+    <div class="navbarlinks" style="color:white;">
+        <a href="about.html">About Us</a>
+        <a href="blog.html">Blog</a>
+        <a href="/wiki/index.php">Database</a>
+        <a href="/forum/index.php">Forums</a>
+    </div>
+</nav>
 
 <!-- 404 Video -->
 <body class="body">
 <div class="navbarlinks">
-<p>
-These aren't the droids you're looking for...<br>
-<video width="960" height="405" autoplay muted loop>
-	<source src="notthedroids.webm" type="video/webm"></source>
-	Your browser does not support the video tag, please update it!
-</video>
-</p>
-<h1><b>Error 404</b></h1>
-Redirecting you to home...
+	<p>
+	These aren't the droids you're looking for...<br>
+	<video style="width:65%;height:auto;" autoplay muted loop>
+		<source src="notthedroids.webm" type="video/webm"></source>
+		Your browser does not support the video tag, please update it!
+	</video>
+	</p>
+	<h1><b>Error 404</b></h1>
+	Redirecting you to home...<br>
+	<a href="index.html">Click here if your browser does not support redirect</a>
 </div>
 </body>
 </html>
