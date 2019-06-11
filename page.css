@@ -1,16 +1,17 @@
+html,
+body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
 .navbar {
-  background: #121212 url("gradient.png") right top;
+  background: #121212 right top;
 }
 .navbarlinks {
   color:white;
   text-align: center;
   font-size:2vw;
   text-decoration: none;
-}
-.body {
-  background-image: url("image/stars.gif");
-  max-width: 1700px;
-  margin: auto;
 }
 .centerimg {
   display: block;
@@ -25,4 +26,22 @@
   max-width:100%;
   height:29px;
   margin: 0px 5px;
+}
+.body {
+  padding: 10px;
+  padding-bottom: 60px;
+  background-image: url("image/stars.gif");
+  max-width: 1700px;
+  margin: auto;
+}
+.footer {
+  position:absolute;
+  bottom:0;
+  width:1700px;
+  height:100px;
+  background: #121212;
+  color:white;
+  text-align: center;
+  font: size 12;
+  text-decoration: none;
 }
