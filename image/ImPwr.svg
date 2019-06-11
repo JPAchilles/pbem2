@@ -1,45 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="580" height="150" viewBox="0 0 580 150">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
-         <xmp:CreatorTool>Adobe Photoshop CC 2019 (Windows)</xmp:CreatorTool>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 536.53 117.13">
+  <defs>
     <style>
       .cls-1 {
-        font-size: 60px;
         fill: #fff;
-        text-anchor: middle;
-        font-family: "StarJedi Special Edition";
       }
     </style>
   </defs>
-  <text id="imperial_Power" data-name="imperial Power" class="cls-1" x="287.5" y="59.5"><tspan x="287.5">imperial Power</tspan></text>
-  <image id="Polygon_6" data-name="Polygon 6" x="187" y="65" width="203" height="69" xlink:href="data:img/png;base64,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"/>
+  <title>Imperial Power Remake Vertical</title>
+  <g id="imperial_Power" data-name="imperial Power">
+    <g>
+      <path class="cls-1" d="M20.7,17.2H34.47V59.5H20.7Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M35.61,59.5V17.2H49.38l9.2,12.65L67.84,17.2H81.61V59.5H67.84V47.43L59,59.5h-.76L49.32,47.43l.06,12.07Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M83.34,59.5V17.2h27.54a17.31,17.31,0,0,1,8.44,2.85,12.75,12.75,0,0,1,4.74,6.61,25.28,25.28,0,0,1,1.06,7.66,23.07,23.07,0,0,1-.94,4.8q-.71,2.25-3.87,5.17a15.85,15.85,0,0,1-8.44,3.81H98.63l-.06,11.4ZM98.63,28.68v7.15h9.9c2.82-.94,4.28-2.15,4.4-3.63q-.3-2.36-4.51-3.52Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M126.11,59.5V17.2h36.27V29.79h-22.5v2.76h9.44v8.2h-9.44V46.9H166V59.5Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M164.76,59.5V17.2H192.3a16,16,0,0,1,8.38,2.88,14.1,14.1,0,0,1,4.8,6.55c.78,4.08.82,7.24.12,9.46a11.9,11.9,0,0,1-3.69,5.57,26.1,26.1,0,0,1-3.28,2.53,1.93,1.93,0,0,0-.94,1c.11.75,1.36,1.33,3.75,1.76h8.73V59.5H200q-9.14.18-14.47-5.62l-5.51-5.81V59.5Zm15.29-30.82v7.15H190c2.82-.94,4.28-2.15,4.4-3.63q-.3-2.36-4.51-3.52Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M208.38,17.2h13.77V59.5H208.38Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M219.78,59.5,233.7,17.2h21l14.15,42.3h-16l-2.67-7.62H237.62L235,59.5Zm24.46-32.93-6.06,16.76h11.66Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M267.07,59.5V17.2h13.77V46.9h22.91V59.5Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M330.94,59.5V34.19h25.89a5.12,5.12,0,0,0,2-.38,1.68,1.68,0,0,0,.91-1.73,1.75,1.75,0,0,0-1.06-1.82,6.69,6.69,0,0,0-1.82-.47H322.15V17.2h36.32a17.27,17.27,0,0,1,8.44,2.85,12.71,12.71,0,0,1,4.75,6.61,24.88,24.88,0,0,1,1,7.66,23.07,23.07,0,0,1-.93,4.8q-.7,2.25-3.87,5.17a15.85,15.85,0,0,1-8.44,3.81l-13.3,0V59.5Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M420.82,38.58a22.86,22.86,0,0,1-2.9,11.84,18,18,0,0,1-8.39,7.35,32,32,0,0,1-13.11,2.46,31.59,31.59,0,0,1-13.09-2.47,17.66,17.66,0,0,1-8.27-7.33,23.2,23.2,0,0,1-2.81-11.85,24.92,24.92,0,0,1,1.61-9.33,17.63,17.63,0,0,1,4.71-6.78,20.64,20.64,0,0,1,7.62-4.18,34.27,34.27,0,0,1,10.23-1.42,31.42,31.42,0,0,1,13.09,2.51,18.3,18.3,0,0,1,8.41,7.38A22.76,22.76,0,0,1,420.82,38.58Zm-33.55.12a13.33,13.33,0,0,0,1.84,7.09c1.22,2,3.62,3,7.22,3,2.77,0,4.85-.53,6.22-1.59a6.6,6.6,0,0,0,2.58-3.61,27.72,27.72,0,0,0,.69-4.91,15.13,15.13,0,0,0-2-7.11q-1.78-3-7.53-3Q387.27,28.56,387.27,38.7Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M438.6,59.5H426.45L416,17.2h13.62l3.93,18.28,12.09-15,11.49,15,5.8-18.28h13.21L463.8,59.5H452.9l-7.38-10.43Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M473.18,59.5V17.2h36.27V29.79H487v2.76h9.43v8.2H487V46.9H513V59.5Z" transform="translate(-20.7 -16.87)"/>
+      <path class="cls-1" d="M511.82,59.5V17.2h27.54a16,16,0,0,1,8.38,2.88,14,14,0,0,1,4.8,6.55c.78,4.08.82,7.24.12,9.46A11.76,11.76,0,0,1,549,41.66a25.34,25.34,0,0,1-3.28,2.53,1.93,1.93,0,0,0-.94,1c.12.75,1.37,1.33,3.75,1.76h8.73V59.5H547.09q-9.14.18-14.47-5.62l-5.51-5.81V59.5Zm15.29-30.82v7.15H537c2.82-.94,4.28-2.15,4.4-3.63q-.3-2.36-4.51-3.52Z" transform="translate(-20.7 -16.87)"/>
+    </g>
+  </g>
+  <g id="Polygon_6_Image" data-name="Polygon 6 Image">
+    <image id="Polygon_6_Image-2" data-name="Polygon 6 Image" width="203" height="69" transform="translate(166.3 48.13)" xlink:href="data:image/png;base64,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"/>
+  </g>
 </svg>

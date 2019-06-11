@@ -13,12 +13,12 @@ body {
   font-size:2vw;
   text-decoration: none;
 }
-.centerimg {
+.logoimg {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width:100%;
-  height:auto;
+  max-width:580px;
+  height:100%;
 }
 .navbarimg {
   margin-left: auto;
