@@ -9,6 +9,8 @@
 }
 .body {
   background-image: url("image/stars.gif");
+  max-width: 1700px;
+  margin: auto;
 }
 .centerimg {
   display: block;
