@@ -40,11 +40,11 @@ body {
 .footer {
   position:absolute;
   bottom:0;
-  width:1700px;
+  max-width:1700px;
   height:120px;
   background: #121212;
   color:white;
   text-align: center;
-  font: size 12;
+  font:1vw;
   text-decoration: none;
 }
