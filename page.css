@@ -28,6 +28,7 @@ body {
   margin: 0px 5px;
 }
 .body {
+  font-family: "Sans-serif", Verdana;
   padding: 10px;
   padding-bottom: 60px;
   background-image: url("image/Background.png");
@@ -47,4 +48,7 @@ body {
   text-align: center;
   font:1vw;
   text-decoration: none;
+}
+.footer a:hover {
+  color: #f1f1f1;
 }
