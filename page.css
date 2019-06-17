@@ -5,6 +5,7 @@ body {
   height:100%;
 }
 .navbar {
+  top:0;
   background: #121212 right top;
 }
 .navbarlinks {
@@ -36,10 +37,10 @@ body {
   margin:auto;
   color:white;
   text-align:center;
-  font-size: calc(10px + 1vw);
+  font-size: calc(12px + 1vmin);
 }
 .footer {
-  position:absolute;
+  position:relative;
   bottom:0;
   max-width:1700px;
   background:#121212;
