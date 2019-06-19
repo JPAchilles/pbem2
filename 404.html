@@ -8,9 +8,19 @@
 <head>
 	<title>404</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta charset="utf-8" http-equiv="Refresh" content="3.9; url=/"> <!-- refresh time slightly longer than video to account for page load time -->
+	<meta charset="utf-8">
 	<link rel="stylesheet" href="page.css">
 </head>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js">
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){   
+   $("#404video").bind('ended', function(){
+	  location.href="/";   
+   }); 
+  });
+</script>
 
 <!-- Top Navbar, Reuseable code -->
 <nav class="navbar">
@@ -29,7 +39,7 @@
 <div>
 	<p>
 	These aren't the droids you're looking for...<br>
-	<video style="width:65%;height:auto;" autoplay muted loop>
+	<video id="404video" style="width:65%;height:auto;" autoplay muted loop>
 		<source src="video/notthedroids.webm" type="video/webm"></source>
 		Your browser does not support the video tag, please update it!
 	</video>
