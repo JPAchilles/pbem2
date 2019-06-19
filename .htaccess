@@ -5,5 +5,5 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 ErrorDocument 404 /404.html
 ExpiresActive On
-ExpiresDefault "now"
+ExpiresDefault "now plus 1 second"
 # ExpiresDefault "access plus 1 week"
