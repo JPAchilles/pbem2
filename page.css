@@ -1,3 +1,11 @@
+@font-face {
+  font-family: swfont;
+  src: url(assets/starjedi.ttf);
+}
+@font-face {
+  font-family: swhollow;
+  src: url(assets/starjhol.ttf);
+}
 html,
 body {
   margin:0;
@@ -7,12 +15,26 @@ body {
 .navbar {
   top:0;
   background:#121212 right top;
-}
-.navbarlinks {
-  color:white;
   text-align:center;
-  font-size:2vw;
-  text-decoration: none;
+  font-size:calc(12px + 2vmin);
+}
+.navbarlink:link {
+  font-family: swhollow;
+  text-decoration:none;
+  color:white;
+}
+.navbarlink:hover {
+  text-decoration:none;
+  color:gold;
+}
+.navbarlink:active {
+  text-decoration:underline;
+  color:goldenrod;
+  font-family: swfont;
+}
+.navbarlink:visited {
+  text-decoration:none;
+  color:white;
 }
 .logoimg {
   display:inline-block;
@@ -20,13 +42,6 @@ body {
   margin-right:auto;
   max-width:390px;
   height:100%;
-}
-.navbarimg {
-  margin-left:auto;
-  margin-right:auto;
-  height:20px;
-  max-width:100%;
-  margin: 0px 5px;
 }
 .body {
   font-family:Arial, Helvetica, sans-serif;
@@ -42,19 +57,19 @@ body {
   text-align:center;
   font-size:calc(12px + 1vmin);
 }
-.body a:link {
+.bodylink:link {
   text-decoration:none;
   color:#4284FF;
 }
-.body a:hover {
-  text-decoration:none;
-  color:#f1f1f1;
-}
-.body a:visited {
+.bodylink:visited {
   text-decoration:none;
   color:gold;
 }
-.body a:active {
+.bodylink:hover {
+  text-decoration:none;
+  color:#f1f1f1;
+}
+.bodylink:active {
   text-decoration:underline;
   color:gray;
 }
@@ -68,19 +83,19 @@ body {
   text-align:center;
   font-size:calc(5px + 1vmin);
 }
-.footer a:link {
+.footerlink:link {
   text-decoration:none;
   color:#4284FF;
 }
-.footer a:hover {
-  text-decoration:none;
-  color:#f1f1f1;
-}
-.footer a:visited {
+.footerlink:visited {
   text-decoration:none;
   color:goldenrod;
 }
-.footer a:active {
+.footerlink:hover {
+  text-decoration:none;
+  color:#f1f1f1;
+}
+.footerlink:active {
   text-decoration:underline;
   color:gray;
 }
