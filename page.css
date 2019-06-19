@@ -42,6 +42,22 @@ body {
   text-align:center;
   font-size:calc(12px + 1vmin);
 }
+.body a:link {
+  text-decoration:none;
+  color:#4284FF;
+}
+.body a:hover {
+  text-decoration:none;
+  color:#f1f1f1;
+}
+.body a:visited {
+  text-decoration:none;
+  color:gold;
+}
+.body a:active {
+  text-decoration:underline;
+  color:gray;
+}
 .footer {
   display:inline-block;
   position:relative;
@@ -62,7 +78,7 @@ body {
 }
 .footer a:visited {
   text-decoration:none;
-  color:yellowgreen;
+  color:goldenrod;
 }
 .footer a:active {
   text-decoration:underline;
