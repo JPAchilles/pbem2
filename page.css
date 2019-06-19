@@ -23,19 +23,20 @@ body {
   text-decoration:none;
   color:white;
 }
+.navbarlink:visited {
+  text-decoration:none;
+  color:white;
+}
 .navbarlink:hover {
   text-decoration:none;
   color:gold;
 }
 .navbarlink:active {
   text-decoration:none;
-  color:goldenrod;
+  color:gold;
   font-family: swfont;
 }
-.navbarlink:visited {
-  text-decoration:none;
-  color:white;
-}
+
 .logoimg {
   display:inline-block;
   margin-left:auto;
