@@ -51,16 +51,19 @@ body {
   text-align:center;
   font-size:calc(5px + 1vmin);
 }
+.footer a:link {
+  text-decoration:none;
+  color:lightblue;
+}
 .footer a:hover {
   text-decoration:none;
   color:#f1f1f1;
 }
-.footer a:link {
-  text-decoration:none;
-}
 .footer a:visited {
   text-decoration:none;
+  color:yellowgreen;
 }
 .footer a:active {
   text-decoration:underline;
+  color:gray;
 }
