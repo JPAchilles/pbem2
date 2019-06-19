@@ -64,7 +64,7 @@ body {
 }
 .bodylink:visited {
   text-decoration:none;
-  color:gold;
+  color:#4284FF;
 }
 .bodylink:hover {
   text-decoration:none;
@@ -72,7 +72,7 @@ body {
 }
 .bodylink:active {
   text-decoration:underline;
-  color:gray;
+  color:gold;
 }
 .footer {
   display:inline-block;
