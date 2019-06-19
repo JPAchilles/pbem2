@@ -28,7 +28,7 @@ body {
   color:gold;
 }
 .navbarlink:active {
-  text-decoration:underline;
+  text-decoration:none;
   color:goldenrod;
   font-family: swfont;
 }
