@@ -1,5 +1,5 @@
 # pbem2
-    Prototyping a website, will change this readme file _eventually™..._
+Prototyping a website, will change this readme file _eventually™..._
 
 ### Markdown
 
